@@ -44,7 +44,7 @@ Project based on the proposal made by [DIO](https://www.dio.me), through the cou
 
 ## DESCRIPTION
 
-**OPERAÇÕES REQUISITADAS:** Deposito, Saque, Extrato
+**REQUESTED OPERATIONS:** Deposito, Saque, Extrato
 
 ### DEPOSIT OPERATION
 
